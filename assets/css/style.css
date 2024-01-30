@@ -1,5 +1,5 @@
 body {
-  background: #342E37;
+  background: tomato;
   }
 
 .container {
@@ -12,6 +12,7 @@ h1 {
   font-size: 3rem;
   text-align: center;
   font-weight: 300;
+  font-style: italic;
 }
   
 img {
@@ -31,11 +32,11 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color:  darkgreen;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
-  box-shadow: 0 6px #2E282A;
+  box-shadow: 0 6px  blue;
 }
   
 .btn a {
