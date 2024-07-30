@@ -1,11 +1,30 @@
 # Desafío evaluado - Branching
 
-En este desafío se aplico las etapas del versionamiento de git, para mantener un repositorio de versiones.
+Este proyecto es una página web simple que incluye un enlace a GitHub, un botón para ir a GitHub y la imagen de Octocat. Está diseñado para practicar el uso de branching en Git.
 
+## Descripción
 
-![Branching](screenshot/Branching.png)
+La página web muestra un título, una imagen de Octocat y un botón que enlaza a GitHub.
 
-- Cree los directorios, movi el style a su lugar y elimina los styles que sobraban.
-- arregle el link de la imagen, puse un target blank y agregue el style.css
-- cambie el color de fondo
-- se creo el archivo script.js y se agrego al index.html
+## Vista Codificada
+
+A continuación, se muestra la imagen del resultado codificado:
+
+![Branching](assets/screenshot/Branching.png)
+
+## Estructura del Proyecto
+
+El proyecto se compone de las siguientes secciones:
+
+- **Encabezado (`<head>`)**: Contiene los metadatos del documento, como el conjunto de caracteres, la vista adaptable y el autor.
+- **Cuerpo (`<body>`)**: Contiene la estructura principal de la página con un título, una imagen y un botón.
+
+## Tecnologías Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Autor
+
+Este proyecto fue desarrollado por **Valeria Torrealba**.
